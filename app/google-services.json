@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55113559872",
+    "project_id": "funfood-f55b5",
+    "storage_bucket": "funfood-f55b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55113559872:android:f8e5bde8433cb0541d14a5",
+        "android_client_info": {
+          "package_name": "com.example.funfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4JMUF68GH_fQzHBy7P_C6sCnrZkCMHj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
